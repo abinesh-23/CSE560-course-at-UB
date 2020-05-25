@@ -1,6 +1,6 @@
 # CSE560-course-at-UB
 
-This repository contains CSE560 course notes and projects
+This repository contains CSE560 (Data Models and Query Languages) course notes and projects
 
 **Slides** contains the power point presentations of the course material.
 
