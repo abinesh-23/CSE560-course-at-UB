@@ -1,4 +1,4 @@
-Database design project
+# Database design project
 
 This project is about designing a new database for given requirement.
 
